@@ -17,3 +17,10 @@
 -  Ensures all essential bookmarks are given to new employees
 -  Increase efficiency by [creating a Service](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/MakeaSystem-WideService.html)
 -  TO RUN: open with Script Editor (macOS), select 'Javascript' top left, compile and run 
+  
+  
+  
+# Database Comparison (python/pandas)
+- As a Volunteer Guide, I maintain multiple databases tracking Volunteer Leadership in Austin TX
+  - I wrote a function to compare 2 databases and help me reconcile differences
+  - Because it contains sensitive information, I can't host this code publicly
