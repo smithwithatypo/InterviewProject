@@ -1,8 +1,4 @@
-*A place to share my projects for interviews*    
-  
-  
-  
-## Data Project (python/pandas)
+# Data Project (python/pandas)
 - #### Raw Public Data:
   -  [120 years Olympic History - Kaggle.com](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)  
   -  [National Footprint Accounts - Kaggle.com](https://www.kaggle.com/footprintnetwork/national-footprint-accounts-2018)  
@@ -16,7 +12,7 @@
   -  *YearMedalCountry.csv*
   
   
-## Automation Project (macOS)
+# Automation Project (macOS)
 -  *[AutomatedBookmarks.scpt](https://github.com/smithwithatypo/InterviewProject/blob/master/AutomatedBookmarks.applescript)* 
 -  Ensures all tools are available to new employees
 -  Attach to a hotkey by [creating a Service](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/MakeaSystem-WideService.html)
