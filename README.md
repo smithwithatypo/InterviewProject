@@ -14,6 +14,6 @@
   
 # Automation Project (macOS)
 -  *[AutomatedBookmarks.scpt](https://github.com/smithwithatypo/InterviewProject/blob/master/AutomatedBookmarks.applescript)* 
--  Ensures all essential bookmarks are given to new employees (replace the default URL's)
+-  Ensures all essential bookmarks are given to new employees
 -  Increase efficiency by [creating a Service](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/MakeaSystem-WideService.html)
 -  TO RUN: open with Script Editor (macOS), select 'Javascript' top left, compile and run 
