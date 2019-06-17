@@ -3,7 +3,7 @@
   
   
 ## Data Project (python/pandas)
-- Raw Puclic Data:
+- Raw Public Data:
   -  [120 years Olympic History - Kaggle.com](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)  
   -  [National Footprint Accounts - Kaggle.com](https://www.kaggle.com/footprintnetwork/national-footprint-accounts-2018)  
   
