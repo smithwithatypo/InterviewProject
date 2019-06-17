@@ -18,7 +18,6 @@
   
   
 ### Javascript for Automation Project
--  Solves business problem of new agents missing tools
 -  Increases efficiency by turning into a macOS Service and attached to a hotkey
--  TO RUN: open with Script Editor (native on macOS), select "JavaScript" at top left (no Applescript).  Compile and run
--  *AutomatedBookmarks.scpt*
+-  TO RUN: open with Script Editor (macOS), select "JavaScript" at top left (no Applescript)
+-  *AutomatedBookmarks.scpt*  
