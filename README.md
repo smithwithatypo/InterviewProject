@@ -4,8 +4,8 @@
   
 ## Data Project (python/pandas)
 - Raw Data from Kaggle.com:
-  -  [120 years Olympic History](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)  
-  -  [National Footprint Accounts](https://www.kaggle.com/footprintnetwork/national-footprint-accounts-2018)  
+  -  [120 years Olympic History - on Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)  
+  -  [National Footprint Accounts - on Kaggle](https://www.kaggle.com/footprintnetwork/national-footprint-accounts-2018)  
   
 - My Jupyter Notebooks:
   -  *[Olympics.ipynb](https://github.com/smithwithatypo/InterviewProject/blob/master/Olympics.ipynb)*  
