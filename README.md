@@ -8,8 +8,8 @@
   -  [National Footprint Accounts - Kaggle.com](https://www.kaggle.com/footprintnetwork/national-footprint-accounts-2018)  
   
 - My Jupyter Notebooks:
-  -  *[Olympics.ipynb](https://github.com/smithwithatypo/InterviewProject/blob/master/Olympics.ipynb)*  
-  -  *[NFA.ipynb](https://github.com/smithwithatypo/InterviewProject/blob/master/NFA.ipynb)*  
+  -  [Olympics.ipynb](https://github.com/smithwithatypo/InterviewProject/blob/master/Olympics.ipynb)  
+  -  [NFA.ipynb](https://github.com/smithwithatypo/InterviewProject/blob/master/NFA.ipynb)  
   
 - Data ready for Tableau:
   -  *CountryYearPopGDP.csv*  
