@@ -21,6 +21,6 @@
   
   
 # Database Comparison (python/pandas)
-- As a Volunteer Guide, I maintain multiple databases tracking Volunteer Leadership in Austin TX
+- As a Volunteer Guide, I maintain multiple databases for Volunteer Leadership in Austin TX
   - I wrote a function to compare 2 databases and help me reconcile differences
   - Because it contains sensitive information, I can't host this code publicly
