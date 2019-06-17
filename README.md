@@ -3,15 +3,15 @@
   
   
 ## Data Project (python/pandas)
-- ####Raw Public Data:
+- #### Raw Public Data:
   -  [120 years Olympic History - Kaggle.com](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)  
   -  [National Footprint Accounts - Kaggle.com](https://www.kaggle.com/footprintnetwork/national-footprint-accounts-2018)  
   
-- ####My Jupyter Notebooks:
+- #### My Jupyter Notebooks:
   -  [Olympics.ipynb](https://github.com/smithwithatypo/InterviewProject/blob/master/Olympics.ipynb)  
   -  [NFA.ipynb](https://github.com/smithwithatypo/InterviewProject/blob/master/NFA.ipynb)  
   
-- ####Data ready for Tableau:
+- #### Data ready for Tableau:
   -  *CountryYearPopGDP.csv*  
   -  *YearMedalCountry.csv*
   
