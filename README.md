@@ -17,7 +17,7 @@
   -  *YearMedalCountry.csv*
   
   
-### Javascript for Automation Project
+### Automation Project (macOS)
 -  Increases worker efficiency by turning bookmarks into a macOS Service and attached to a hotkey
 -  Ensures all tools are available to all new agents
 -  TO RUN: open with Script Editor (macOS), select "JavaScript" at top left, compile and run
