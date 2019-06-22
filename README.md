@@ -1,4 +1,4 @@
-# Data Science Project *(python/pandas)*
+# Data Science Project *### (python/pandas)*
 
 - #### My Jupyter Notebooks:
   -  [Olympics.ipynb](https://github.com/smithwithatypo/InterviewProject/blob/master/Olympics.ipynb)  
@@ -10,14 +10,14 @@
   
   
   
-# Database Reconciliation *(python/pandas)*
+# Database Reconciliation *### (python/pandas)*
 - As a Volunteer Guide, I maintain multiple databases for Volunteer Leadership in Austin TX
   - per HR rules, I can't host this code publicly  
   
   
   
   
-# Automation Project *(macOS)*
+# Automation Project *### (macOS)*
 -  *[AutomatedBookmarks.applescript](https://github.com/smithwithatypo/InterviewProject/blob/master/AutomatedBookmarks.applescript)* 
 -  Ensures all essential bookmarks are given to new employees
 -  Increase efficiency by [creating a Service](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/MakeaSystem-WideService.html)
