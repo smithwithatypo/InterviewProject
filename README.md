@@ -6,7 +6,7 @@
 
   
 # Database Reconciliation - *python*
-- I maintain multiple databases for Volunteer Leadership in Austin TX
+- I maintain databases for all Volunteer Leadership in Austin TX
   - *code available upon request - currently contains confidential info*  
   
   
